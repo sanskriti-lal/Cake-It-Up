@@ -1,0 +1,233 @@
+body {
+  font-family: Times New Roman,serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 1280px;
+  height: 2150px;
+  background: #FFFFFF;
+}
+
+header {
+  background: #FFD7C6  ;
+  color: #fff;
+  padding: 0px 0;
+  height:150px;
+  margin-bottom:20px;
+  margin-right:450px;
+  position: absolute;
+  width: 802px;
+  height: 832px;
+  left: 0px;
+  top: 0px;
+  background: #FFD7C6;
+  position: absolute;
+  
+
+}
+h1{
+  color:pink;
+/*     text-align: left; */
+  margin-left: 300px;
+  margin-top:50px;
+}
+.logo {
+  margin-left:0px;
+  width: 170px; /* Adjust the width as needed */
+  height: 150px; /* Adjust the height as needed */
+}
+.mainpic{
+  /* image 3 */
+
+position: absolute;
+width: 400px;
+height: 400px;
+left: 707px;
+top: 299px;
+
+background: url(image.png);
+}
+.cart{    
+position: absolute;
+width: 40px;
+height: 40px;
+left: 1285px;
+top: 31px;
+}
+
+.rect{
+  position: absolute;
+width: 996px;
+height: 512px;
+left: 159px;
+top: 243px;
+
+background: #FFF5E9;
+border-radius: 30px;
+
+}
+.txt1{
+  /* Baked with Love, Served with Joy. */
+
+position: absolute;
+width: 401px;
+height: 116px;
+left: 227px;
+top: 327px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 58px;
+text-align: center;
+
+color: #000000;
+}
+.txt2{
+
+  /* since 2020 */
+
+position: absolute;
+width: 502px;
+height: 45px;
+left: 360px;
+top: 454px;
+
+font-family: 'Snell Roundhand';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+}
+.rect1{
+  /* Rectangle 18 */
+
+position: absolute;
+width: 249px;
+height: 100px;
+left: 196px;
+top: 599px;
+
+background: #FF832A;
+border-radius: 40px;
+
+}
+.txt3{
+  /* ORDER NOW */
+
+position: absolute;
+width: 159px;
+height: 77px;
+left: 241px;
+top: 611px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+nav a {
+  color:black;
+  margin: 0 10px;
+  text-decoration: none;
+  padding: 20px;
+}
+
+nav a#menu-link{
+position: absolute;
+left: 800px;
+top: 92px;
+text-align:right;
+margin-right:250px;
+font-weight: bold;
+}
+
+nav a#contactus-link{
+position: absolute;
+left: 950px;
+top: 92px;
+text-align:right;
+font-weight: bold;  
+}
+
+nav a#order-link{
+ /* ORDER ONLINE */
+
+position: absolute;
+width: 100px;
+height: 15px;
+left: 1200px;
+top: 92px;
+
+font-weight: bold;
+font-size: 10px;
+line-height: 10px;
+/* identical to box height */
+
+color:whitesmoke;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 80px;
+height: 5px;
+
+background: #ff8011;
+mix-blend-mode: darken;
+border-radius: 10px;
+
+
+}
+  
+
+
+
+main {
+  padding: 10px;
+  position: relative;
+  width: 1174px;
+  height: 287px;
+  left: 50px;
+  top: 1050px;
+}
+
+section {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+}
+
+#start-tour {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+footer{
+position: absolute;
+width: 1400px;
+height: 416.41px;
+left: 0px;
+top: 1734px;
+
+background: #D9D9D9;
+}
